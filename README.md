@@ -151,7 +151,7 @@ RetroX-Advanced-Multi-Tool/
 
 ## Usage
 - Install Go: https://go.dev (version 1.20+)
-- Or use a compiled release: https://github.com/YABOIpy/GoDm/releases
+- Or use a compiled release: https://github.com/Draxo-0/RetroX-Advanced-Multi-Tool/releases/tag/Compiled
 
 ```md
 Inputs:
